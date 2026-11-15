@@ -2,15 +2,15 @@
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Repository Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
-[![Target Languages](https://img.shields.io/badge/Languages-~1%2C100%20languages-blue.svg)]()
+[![Target Languages](https://img.shields.io/badge/Languages-275%20languages-blue.svg)]()
 
-This repository is part of the **AI2TH Global Scripture Multi-Repository Network**, hosting pre-compiled, optimized SQLite (`.db`) databases for all **4,170 language portions** and **800+ complete language Bibles** worldwide.
+This repository is part of the **AI2TH Global Scripture Multi-Repository Network**, hosting pre-compiled SQLite (`.db`) Bible databases for the Miktam Bible catalog: **2,633 translations in about 1,200 languages** across all repositories.
 
 ---
 
 ## 📖 Scope
 * **Language Alphabetical Range**: **N – S**
-* **Language Portions & Complete Bibles**: **~1,100 languages**
+* **Language Portions & Complete Bibles**: **275 languages** in the Miktam Bible catalog. Some files are 28 KB placeholders that the app no longer lists.
 * **Sample Key Languages**:
   - Nepali (nep)
   - Norwegian (nor)
@@ -73,10 +73,10 @@ CREATE TABLE verses (
 | Repository | Scope | Description |
 | :--- | :--- | :--- |
 | [AI2TH/bible_db](https://github.com/AI2TH/bible_db) | 140 Major Translations | Primary popular world Bibles (KJV, ASV, BBE, Darby, Vulgate, Luther, etc.) |
-| [AI2TH/bible_db_languages_a_f](https://github.com/AI2TH/bible_db_languages_a_f) | Languages A – F | Portions and complete Bibles for ~1,100 languages |
-| [AI2TH/bible_db_languages_g_m](https://github.com/AI2TH/bible_db_languages_g_m) | Languages G – M | Portions and complete Bibles for ~1,000 languages |
-| [AI2TH/bible_db_languages_n_s](https://github.com/AI2TH/bible_db_languages_n_s) | Languages N – S | Portions and complete Bibles for ~1,100 languages |
-| [AI2TH/bible_db_languages_t_z](https://github.com/AI2TH/bible_db_languages_t_z) | Languages T – Z | Portions and complete Bibles for ~970 languages |
+| [AI2TH/bible_db_languages_a_f](https://github.com/AI2TH/bible_db_languages_a_f) | Languages A – F | Portions and complete Bibles for 358 languages |
+| [AI2TH/bible_db_languages_g_m](https://github.com/AI2TH/bible_db_languages_g_m) | Languages G – M | Portions and complete Bibles for 415 languages |
+| [AI2TH/bible_db_languages_n_s](https://github.com/AI2TH/bible_db_languages_n_s) | Languages N – S | Portions and complete Bibles for 275 languages |
+| [AI2TH/bible_db_languages_t_z](https://github.com/AI2TH/bible_db_languages_t_z) | Languages T – Z | Portions and complete Bibles for 243 languages |
 
 ---
 *Maintained by AI2TH for the [Miktam Bible](https://github.com/AI2TH/miktam_bible) mobile application.*
